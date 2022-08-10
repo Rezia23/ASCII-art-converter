@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/Main.scala:1:8: not found: object app[0m
+[0m[[0m[31merror[0m] [0m[0mimport app.console.controllers.ConsoleController[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/Main.scala:2:8: not found: object app[0m
+[0m[[0m[31merror[0m] [0m[0mimport app.console.views.ConsoleView[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/Main.scala:5:24: not found: type ConsoleController[0m
+[0m[[0m[31merror[0m] [0m[0m  val controller = new ConsoleController[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/Main.scala:6:18: not found: type ConsoleView[0m
+[0m[[0m[31merror[0m] [0m[0m  val view = new ConsoleView(controller)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

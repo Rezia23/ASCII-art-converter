@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/app/console/Main.scala:3:20: object controllers is not a member of package app.console[0m
+[0m[[0m[31merror[0m] [0m[0mimport app.console.controllers.ConsoleController[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/terez/Documents/FIT/OOP/asciiart/src/main/scala/app/console/Main.scala:4:20: object views is not a member of package app.console[0m
+[0m[[0m[31merror[0m] [0m[0mimport app.console.views.ConsoleView[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
